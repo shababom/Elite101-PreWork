@@ -1,5 +1,5 @@
 # Elite101-Prework
-Testing diff
+This is the repo for the Elite 101 course from Code2College
 
 ## This section is added to the new branch
 
